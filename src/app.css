@@ -138,3 +138,9 @@
     @apply bg-background text-foreground;
   }
 }
+
+@layer utilities {
+  .bg-gradient-primary {
+    background-image: linear-gradient(to bottom right, #0DA2E7FF, #36D399FF);
+  }
+}

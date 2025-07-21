@@ -14,7 +14,7 @@
 
 <header class="flex items-center justify-between px-4 py-2">
 	<a href="/" class="flex items-center gap-2">
-		<div class="w-8 h-8 flex items-center justify-center rounded-lg bg-gradient-to-br from-[#0DA2E7FF] to-[#36D399FF]">
+		<div class="w-8 h-8 flex items-center justify-center rounded-lg bg-gradient-primary">
 			<span class="text-lg font-bold text-white">Q</span>
 		</div>
 		<span class="text-xl font-bold text-foreground">
