@@ -37,6 +37,25 @@
   --sidebar-accent-foreground: oklch(0.21 0.006 285.885);
   --sidebar-border: oklch(0.92 0.004 286.32);
   --sidebar-ring: oklch(0.705 0.015 286.067);
+
+  /* Financial Colors */
+  --profit: 158 64% 52%; /* Mint green for gains */
+  --loss: 0 84% 60%; /* Red for losses */
+
+  /* Trading Platform Gradients */
+  --gradient-primary: linear-gradient(135deg, hsl(199 89% 48%), hsl(158 64% 52%));
+  --gradient-dark: linear-gradient(180deg, hsl(222 84% 4.9%), hsl(215 28% 7%));
+  --gradient-card: linear-gradient(145deg, hsl(215 28% 7%), hsl(215 25% 10%));
+  --gradient-data: linear-gradient(90deg, hsl(199 89% 48% / 0.1), hsl(158 64% 52% / 0.1));
+
+  /* Professional Shadows */
+  --shadow-glow: 0 0 40px hsl(199 89% 48% / 0.15);
+  --shadow-card: 0 4px 12px hsl(222 84% 4.9% / 0.3);
+  --shadow-elevated: 0 8px 32px hsl(222 84% 4.9% / 0.4);
+
+  /* Smooth Transitions */
+  --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-bounce: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 
 .dark {
