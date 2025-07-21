@@ -15,9 +15,9 @@
 		</span>
 	</a>
 	<nav class="space-x-2 md:space-x-8">
-		<a href="/eastern-whisper">Eastern Whisper</a>
-		<a href="/narrative-tracker">Narrative Tracker</a>
-		<a href="/influential-portfolios">Influential Portfolios</a>
+		<a href="/eastern-whisper" class="text-lg font-semibold text-foreground">Eastern Whisper</a>
+		<a href="/narrative-tracker" class="text-lg font-semibold text-foreground">Narrative Tracker</a>
+		<a href="/influential-portfolios" class="text-lg font-semibold text-foreground">Influential Portfolios</a>
 	</nav>
 	<div class="space-x-1">
 		<Button variant="outline">Sign in</Button>
