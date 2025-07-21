@@ -20,8 +20,12 @@
 		<a href="/influential-portfolios" class="text-lg font-semibold text-foreground">Influential Portfolios</a>
 	</nav>
 	<div class="space-x-1">
-		<Button variant="outline">Sign in</Button>
-		<Button>Start Free Trial</Button>
+		<Button variant="outline">
+			<a href="/sign-in">Sign in</a>
+		</Button>
+		<Button>
+			<a href="/sign-up">Start Free Trial</a>
+		</Button>
 	</div>
 </header>
 
